@@ -29,7 +29,7 @@ Whether you're a seasoned React developer looking to brush up on your skills or 
 
 ---
 
-**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/sudheerj/javascript-interview-questions) for core javascript questions.
+**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/john12gate/450-javascript-interview-question-and-answers/) for core javascript questions.
 
 ### Table of Contents
 
